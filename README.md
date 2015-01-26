@@ -5,6 +5,9 @@ per scrivere codice:
 https://www.spark.io/build
 
 
+https://www.spark.io/features
+
+
 
 link utili:
 temperature device DHT11
