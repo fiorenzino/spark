@@ -1,6 +1,10 @@
 # spark
 spark
 
+per scrivere codice:
+https://www.spark.io/build
+
+
 
 link utili:
 temperature device DHT11
