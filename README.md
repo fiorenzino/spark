@@ -7,6 +7,9 @@ https://www.spark.io/build
 
 https://www.spark.io/features
 
+API
+http://docs.spark.io/firmware/#spark-function
+
 
 
 link utili:
@@ -24,4 +27,7 @@ https://api.spark.io/v1/devices/54ff70066678574908380667/status?access_token=6a4
 https://api.spark.io/v1/devices/54ff70066678574908380667/temperature?access_token=6a4bffe62fceb4c5436412368f1eb6b0e94153fd
 
 https://api.spark.io/v1/devices/54ff70066678574908380667/umidity?access_token=6a4bffe62fceb4c5436412368f1eb6b0e94153fd
+
+come usare in eclipse:
+https://community.spark.io/t/local-build-in-ubuntu-eclipse-setup/3575
 
